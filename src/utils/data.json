@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9cd54e13-527e-47ee-8b3d-aef9b049dd92",
+    "name": "videogame",
+    "category": "Eletrônicos",
+    "stock": 10,
+    "price": 999.99
+  },
+  {
+    "id": "8ddc46e6-b376-4f51-9e03-bb902531226f",
+    "name": "Playstation 5 ",
+    "category": "Eletrônicos",
+    "stock": 10,
+    "price": 3.328
+  }
+]

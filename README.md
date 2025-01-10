@@ -14,7 +14,7 @@ Este é um sistema de gerenciamento de inventário para a loja AgilStore, desenv
 
 1. Clone o repositório:
    ```bash
-   git clone[ https://github.com/USERNAME/REPOSITORY_NAME.git](https://github.com/SamuelMuleu/productsAPI.git]
+   git clone(https://github.com/SamuelMuleu/productsAPI.git)
    cd agilstore
 Instale as dependências:
 ```bash
